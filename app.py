@@ -208,3 +208,4 @@ else:
 # ================== FOOTER ==================
 st.divider()
 st.markdown('<div class="footer">© UIDAI Hackathon 2026 | Aadhaar-Setu Prototype</div>', unsafe_allow_html=True)
+
